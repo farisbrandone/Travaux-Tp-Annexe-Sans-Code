@@ -446,6 +446,33 @@ src/stack.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_structures.dir/build.make CMakeFiles/test_structures.dir/src/stack.c.s
 .PHONY : src/stack.c.s
 
+src/tree.o: src/tree.c.o
+.PHONY : src/tree.o
+
+# target to build an object file
+src/tree.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/datastructures.dir/build.make CMakeFiles/datastructures.dir/src/tree.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_structures.dir/build.make CMakeFiles/test_structures.dir/src/tree.c.o
+.PHONY : src/tree.c.o
+
+src/tree.i: src/tree.c.i
+.PHONY : src/tree.i
+
+# target to preprocess a source file
+src/tree.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/datastructures.dir/build.make CMakeFiles/datastructures.dir/src/tree.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_structures.dir/build.make CMakeFiles/test_structures.dir/src/tree.c.i
+.PHONY : src/tree.c.i
+
+src/tree.s: src/tree.c.s
+.PHONY : src/tree.s
+
+# target to generate assembly for a file
+src/tree.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/datastructures.dir/build.make CMakeFiles/datastructures.dir/src/tree.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_structures.dir/build.make CMakeFiles/test_structures.dir/src/tree.c.s
+.PHONY : src/tree.c.s
+
 tests/test_structures.o: tests/test_structures.c.o
 .PHONY : tests/test_structures.o
 
@@ -514,6 +541,9 @@ help:
 	@echo "... src/stack.o"
 	@echo "... src/stack.i"
 	@echo "... src/stack.s"
+	@echo "... src/tree.o"
+	@echo "... src/tree.i"
+	@echo "... src/tree.s"
 	@echo "... tests/test_structures.o"
 	@echo "... tests/test_structures.i"
 	@echo "... tests/test_structures.s"

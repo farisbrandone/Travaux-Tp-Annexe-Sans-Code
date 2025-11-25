@@ -19,6 +19,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/src/queue.c" "CMakeFiles/datastructures.dir/src/queue.c.o" "gcc" "CMakeFiles/datastructures.dir/src/queue.c.o.d"
   "/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/src/rbtree.c" "CMakeFiles/datastructures.dir/src/rbtree.c.o" "gcc" "CMakeFiles/datastructures.dir/src/rbtree.c.o.d"
   "/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/src/stack.c" "CMakeFiles/datastructures.dir/src/stack.c.o" "gcc" "CMakeFiles/datastructures.dir/src/stack.c.o.d"
+  "/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/src/tree.c" "CMakeFiles/datastructures.dir/src/tree.c.o" "gcc" "CMakeFiles/datastructures.dir/src/tree.c.o.d"
   )
 
 # Targets to which this target links.

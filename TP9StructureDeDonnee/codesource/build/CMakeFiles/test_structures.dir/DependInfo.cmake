@@ -18,6 +18,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/src/queue.c" "CMakeFiles/test_structures.dir/src/queue.c.o" "gcc" "CMakeFiles/test_structures.dir/src/queue.c.o.d"
   "/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/src/rbtree.c" "CMakeFiles/test_structures.dir/src/rbtree.c.o" "gcc" "CMakeFiles/test_structures.dir/src/rbtree.c.o.d"
   "/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/src/stack.c" "CMakeFiles/test_structures.dir/src/stack.c.o" "gcc" "CMakeFiles/test_structures.dir/src/stack.c.o.d"
+  "/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/src/tree.c" "CMakeFiles/test_structures.dir/src/tree.c.o" "gcc" "CMakeFiles/test_structures.dir/src/tree.c.o.d"
   "/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/tests/test_structures.c" "CMakeFiles/test_structures.dir/tests/test_structures.c.o" "gcc" "CMakeFiles/test_structures.dir/tests/test_structures.c.o.d"
   )
 

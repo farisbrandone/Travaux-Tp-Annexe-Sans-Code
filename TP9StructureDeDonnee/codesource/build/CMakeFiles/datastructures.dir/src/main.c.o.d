@@ -32,4 +32,5 @@ CMakeFiles/datastructures.dir/src/main.c.o: \
  /home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/include/bst.h \
  /home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/include/rbtree.h \
  /home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/include/graph.h \
- /home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/include/hash_table.h
+ /home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/include/hash_table.h \
+ /home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/include/tree.h

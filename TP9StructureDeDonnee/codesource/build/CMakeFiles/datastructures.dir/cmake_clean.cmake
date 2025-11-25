@@ -21,6 +21,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/datastructures.dir/src/rbtree.c.o.d"
   "CMakeFiles/datastructures.dir/src/stack.c.o"
   "CMakeFiles/datastructures.dir/src/stack.c.o.d"
+  "CMakeFiles/datastructures.dir/src/tree.c.o"
+  "CMakeFiles/datastructures.dir/src/tree.c.o.d"
   "datastructures"
   "datastructures.pdb"
 )

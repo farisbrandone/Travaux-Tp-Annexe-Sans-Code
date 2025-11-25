@@ -16,6 +16,7 @@ set(MAIN_SOURCES
     src/rbtree.c
     src/graph.c
     src/hash_table.c
+    src/tree.c
     src/main.c
 )
 
@@ -31,6 +32,7 @@ set(TEST_SOURCES
     src/rbtree.c
     src/graph.c
     src/hash_table.c
+    src/tree.c
     tests/test_structures.c
 )
 

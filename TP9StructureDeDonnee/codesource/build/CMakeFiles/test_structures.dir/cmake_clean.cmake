@@ -19,6 +19,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/test_structures.dir/src/rbtree.c.o.d"
   "CMakeFiles/test_structures.dir/src/stack.c.o"
   "CMakeFiles/test_structures.dir/src/stack.c.o.d"
+  "CMakeFiles/test_structures.dir/src/tree.c.o"
+  "CMakeFiles/test_structures.dir/src/tree.c.o.d"
   "CMakeFiles/test_structures.dir/tests/test_structures.c.o"
   "CMakeFiles/test_structures.dir/tests/test_structures.c.o.d"
   "test_structures"
