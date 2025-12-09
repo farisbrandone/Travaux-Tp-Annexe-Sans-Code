@@ -1,0 +1,5 @@
+/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/CMakeFiles/datastructures.dir
+/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/CMakeFiles/test_structures.dir
+/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/CMakeFiles/test.dir
+/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/CMakeFiles/edit_cache.dir
+/home/faris/Documents/TPetANNEXEsansCODE/TP9StructureDeDonnee/codesource/CMakeFiles/rebuild_cache.dir
