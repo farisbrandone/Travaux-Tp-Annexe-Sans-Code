@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libsorting_lib.a CMakeFiles/sorting_lib.dir/src/quicksort.cpp.o CMakeFiles/sorting_lib.dir/src/binary_search.cpp.o
+/usr/bin/ranlib lib/libsorting_lib.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sorting_demo.dir/src/main.cpp.o -o bin/sorting_demo  lib/libsorting_lib.a 
