@@ -2,14 +2,29 @@
 
 # 📚 Table of Contents
 
-1. [📖 Définition et Terminologie](#-définition-et-terminologie)
-2. [🌍 Histoire du pont de Koenigsberg](#-histoire-du-pont-de-koenigsberg)
-3. [📜 Propriété des Graphes](#-propriété-des-graphes)
-4. [🔥 Implémentation des Graphes](#-implémentation-des-graphes)
+0. [Genèse de la théorie des graphes](#0-genèse-de-la-théorie-des-graphes)
+1. [Définition formelle d'un graphe](#1-définition-formelle-dun-graphe)
+2. [Types de graphes](#2-types-de-graphes)
+3. [Notions fondamentales](#3-notions-fondamentales)
+4. [Classification selon la densité](#4-classification-selon-la-densité)
+5. [Importance et applications des graphes](#5-importance-et-applications-des-graphes)
+6. [Propriétés mathématiques des graphes](#6-propriétés-mathématiques-des-graphes)
+7. [Chemins et connectivité](#7-chemins-et-connectivité)
+8. [Types de connectivité](#8-types-de-connectivité)
+9. [Implémentations des graphes](#9-implémentations-des-graphes)
+10. [Résumé des Complexités](#10-résumé-des-complexités)
 
 ---
 
-## 0. Genèse de la théorie des graphes: L'énigme des Ponts de Königsberg (1736)
+Classification selon la densité
+Importance et applications des graphes
+Propriétés mathématiques des graphes
+Chemins et connectivité
+Types de connectivité
+Implémentations des graphes
+Résumé des Complexités
+
+## 0. Genèse de la théorie des graphes
 
 ### L'origine de la Théorie des Graphes
 
