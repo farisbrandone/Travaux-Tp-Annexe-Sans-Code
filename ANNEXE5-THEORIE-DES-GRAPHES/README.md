@@ -424,10 +424,10 @@ Arêtes = [
 Voici l'analyse des performances pour cette structure de données, où $|V|$ représente le nombre de sommets et $|E|$ le nombre d'arêtes :
 
 | Opération                                     | Complexité (Big O) |
-| :-------------------------------------------- | :----------------- | --- | --- | --- | --- |
-| **Espace mémoire**                            | $O(                | V   | +   | E   | )$  |
-| **Vérifier l'existence d'une arête $(u, v)$** | $O(                | E   | )$  |
-| **Parcourir les voisins d'un sommet $u$**     | $O(                | E   | )$  |
+| :-------------------------------------------- | :----------------- |
+| **Espace mémoire**                            | $O(V + E)$         |
+| **Vérifier l'existence d'une arête $(u, v)$** | $O(E)$             |
+| **Parcourir les voisins d'un sommet $u$**     | $O(E)$             |
 | **Ajouter une arête**                         | $O(1)$ (amorti)    |
 
 > **Note :** Cette implémentation est très économe en mémoire pour les graphes **creux** (peu d'arêtes), mais elle est inefficace pour les recherches fréquentes de connexions, car il faut parcourir toute la liste des arêtes au pire des cas.
@@ -459,10 +459,10 @@ $$
 Voici l'analyse des performances pour cette structure de données :
 
 | Opération                                     | Complexité (Big O) |
-| :-------------------------------------------- | :----------------- | --- | ---- |
-| **Espace mémoire**                            | $O(                | V   | ^2)$ |
+| :-------------------------------------------- | :----------------- |
+| **Espace mémoire**                            | $O(V^2)$           |
 | **Vérifier l'existence d'une arête $(u, v)$** | $O(1)$             |
-| **Parcourir les voisins d'un sommet $u$**     | $O(                | V   | )$   |
+| **Parcourir les voisins d'un sommet $u$**     | $O( V )$           |
 | **Ajouter une arête**                         | $O(1)$             |
 
 [Image comparing adjacency matrix and edge list performance]
@@ -491,8 +491,8 @@ Pour un graphe avec les sommets A, B, C et les arêtes A-B et B-C :
 La liste d'adjacence est souvent considérée comme le meilleur compromis pour la plupart des algorithmes de graphes. Voici ses performances :
 
 | Opération                              | Complexité (Big O) |
-| :------------------------------------- | :----------------- | --- | --- | --- | --- |
-| **Espace mémoire**                     | $O(                | V   | +   | E   | )$  |
+| :------------------------------------- | :----------------- |
+| **Espace mémoire**                     | $O(V + E)$         |
 | **Vérifier si $(u, v)$ est une arête** | $O(\deg(u))$       |
 | **Parcourir les voisins de $u$**       | $O(\deg(u))$       |
 | **Ajouter une arête**                  | $O(1)$ (amorti)    |
