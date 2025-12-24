@@ -16,14 +16,6 @@
 
 ---
 
-Classification selon la densité
-Importance et applications des graphes
-Propriétés mathématiques des graphes
-Chemins et connectivité
-Types de connectivité
-Implémentations des graphes
-Résumé des Complexités
-
 ## 0. Genèse de la théorie des graphes
 
 ### L'origine de la Théorie des Graphes
